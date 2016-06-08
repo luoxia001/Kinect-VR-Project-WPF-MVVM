@@ -1,0 +1,17 @@
+﻿<ArticleModel Title="JAPANESE CASTLES" xmlns="clr-namespace:KinectProject.Models;assembly=KinectProject" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/Nagoya_Castle.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/Kumamoto castle building diagram.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>History of Castles</x:String>
+        <x:String>Fortresses have been built in Japan since early times. A particular need for castles arose in the 15th century after the central government's authority had weakened and Japan had fallen into the chaotic era of warring states (sengoku jidai). During that era, Japan consisted of dozens of small independent states which fought each other and built small castles on top of mountains for defense purposes.</x:String>
+        <x:String>When Oda Nobunaga reestablished a central authority over Japan in the second half of the 16th century, and his successor Toyotomi Hideyoshi completed the reunification of Japan, many larger castles were built across the country. Unlike the earlier castles, they were built in the plains or on small hills in the plains, where they served as a region's administrative and military headquarters and a symbol of authority. They became the centers of "castle towns".</x:String>
+        <x:String>After the end of the feudal age (1868), many castles were destroyed as unwelcome relics of the past or were lost in World War II. Only a dozen "original castles", i.e. castles with a main keep that dates from the feudal era (before 1868), survive today. Furthermore, several dozen castles were reconstructed over the past decades - mostly using concrete instead of traditional building materials.</x:String>
+        <x:String>Castle Structures and Castle Towns</x:String>
+        <x:String>The typical castle consisted of multiple rings of defense, with the so called honmaru ("main circle") in the center followed by the ninomaru ("second circle") and sannomaru ("third circle"). The castle tower stood in the honmaru, while the lords usually lived at a more comfortable residence in the ninomaru.</x:String>
+        <x:String>In the town around the castle, the samurai were residing. The higher their rank, the closer they lived to the castle. Merchants and artisans lived in specially designated areas, while temple and entertainment districts were usually located in the outskirts of the city or just outside of it. Tokyo and Kanazawa are two good examples among many Japanese cities which evolved as castle towns.</x:String>
+        <x:String>The main construction material for castle buildings used to be wood, as can be witnessed when visiting the interior of one of the surviving original castles. Most newer reconstructions, however, were made of concrete, and their interiors are modern. Many castles now house a museum.</x:String>
+        <x:String>The second picture is a typical castle structure.</x:String>
+    </ArticleModel.Paragraphs>
+</ArticleModel>

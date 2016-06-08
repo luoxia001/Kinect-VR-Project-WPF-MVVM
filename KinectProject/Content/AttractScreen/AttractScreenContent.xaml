@@ -1,0 +1,7 @@
+﻿<List x:TypeArguments="mskbm:AttractImageModel" Capacity="4" xmlns="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:mskbm="clr-namespace:KinectProject.Models;assembly=KinectProject" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/PaperArts.jpg"/>
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/Tokyo.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/SakuraCity.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/Fujiyama.jpg" />
+    <mskbm:AttractImageModel ImageUri="pack://application:,,,/Content/AttractScreen/JapaneseCastle.jpg" />
+</List>

@@ -1,0 +1,41 @@
+﻿<List x:TypeArguments="mskbm:ExperienceOptionModel" xmlns="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:mskbm="clr-namespace:KinectProject.Models;assembly=KinectProject" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <mskbm:ExperienceOptionModel 
+        Name="ONLY IN JAPAN" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/JAPAN INTRODUCTION.jpg"
+        OverlayImageUri="pack://application:,,,/Content/HomeScreen/play-overlay.png"
+        NavigableContextName="Video" 
+        NavigableContextParameter="Content/Videos/JAPAN INTRODUCTION.mp4" />
+    <mskbm:ExperienceOptionModel 
+        Name="SHINTO FAITH" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/Shinto Shrines Tori.jpg" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/Article1.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="HERITAGE" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/HERITAGE.jpg"
+        OverlayImageUri="pack://application:,,,/Content/HomeScreen/play-overlay.png"
+        NavigableContextName="Video" 
+        NavigableContextParameter="Content/Videos/HERITAGE.mp4" />
+    <mskbm:ExperienceOptionModel 
+        Name="SAMURAI" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/Samurai.jpg" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/Article2.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="FOOD" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/FOOD.jpg"
+        OverlayImageUri="pack://application:,,,/Content/HomeScreen/play-overlay.png"
+        NavigableContextName="Video" 
+        NavigableContextParameter="Content/Videos/FOOD.mp4" />
+    <mskbm:ExperienceOptionModel 
+        Name="JAPANESE CASTLES" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/NagoyaCastle.jpg" 
+        NavigableContextName="Article" 
+        NavigableContextParameter="pack://application:,,,/Content/ArticleScreen/Article3.xaml" />
+    <mskbm:ExperienceOptionModel 
+        Name="POP CULTURE" 
+        ImageUri="pack://application:,,,/Content/HomeScreen/POP CULTURE.jpg"
+        OverlayImageUri="pack://application:,,,/Content/HomeScreen/play-overlay.png"
+        NavigableContextName="Video" 
+        NavigableContextParameter="Content/Videos/POP CULTURE.mp4" />
+</List>

@@ -1,0 +1,17 @@
+﻿<ArticleModel Title="SHINTO FAITH" xmlns="clr-namespace:KinectProject.Models;assembly=KinectProject" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/Fushimi-inari.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/Shinto Shrines Torii Japan.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>Introduction</x:String>
+        <x:String>Shinto does not have a founder nor does it have sacred scriptures like the sutras or the Bible. Propaganda and preaching are not common either, because Shinto is deeply rooted in the Japanese people and traditions.</x:String>
+        <x:String>"Shinto gods" are called kami. They are sacred spirits which take the form of things and concepts important to life, such as wind, rain, mountains, trees, rivers and fertility. Humans become kami after they die and are revered by their families as ancestral kami. The kami of extraordinary people are even enshrined at some shrines. The Sun Goddess Amaterasu is considered Shinto's most important kami.</x:String>
+        <x:String>In contrast to many monotheistic religions, there are no absolutes in Shinto. There is no absolute right and wrong, and nobody is perfect. Shinto is an optimistic faith, as humans are thought to be fundamentally good, and evil is believed to be caused by evil spirits. Consequently, the purpose of most Shinto rituals is to keep away evil spirits by purification, prayers and offerings to the kami.</x:String>
+        <x:String>Shinto priests perform Shinto rituals and often live on the shrine grounds. Men and women can become priests, and they are allowed to marry and have children. Priests are aided by younger women (miko) during rituals and shrine tasks. Miko wear white kimono, must be unmarried, and are often the priests' daughters</x:String>
+        <x:String>Shinto History</x:String>
+        <x:String>The introduction of Buddhism in the 6th century was followed by a few initial conflicts, however, the two religions were soon able to co-exist and even complement each other. Many Buddhists viewed the kami as manifestations of Buddha.</x:String>
+        <x:String>In the Meiji Period, Shinto was made Japan's state religion. Shinto priests became state officials, important shrines started to receive governmental funding, Japan's creation myths were used to foster an emperor cult, and efforts were made to separate and emancipate Shinto from Buddhism.</x:String>
+        <x:String>After World War II, Shinto and the state were separated.</x:String>
+    </ArticleModel.Paragraphs>
+</ArticleModel>

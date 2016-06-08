@@ -1,0 +1,16 @@
+﻿<ArticleModel Title="SAMURAI" xmlns="clr-namespace:KinectProject.Models;assembly=KinectProject" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ArticleModel.ImageUris>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/KobudoDemo.jpg</x:Uri>
+        <x:Uri>pack://application:,,,/Content/ArticleScreen/Samurai1.jpg</x:Uri>
+    </ArticleModel.ImageUris>
+    <ArticleModel.Paragraphs>
+        <x:String>The samurai (or bushi) were the warriors of premodern Japan. They later made up the ruling military class that eventually became the highest ranking social caste of the Edo Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and guns, but their main weapon and symbol was the sword.</x:String>
+        <x:String>Samurai were supposed to lead their lives according to the ethic code of bushido ("the way of the warrior"). Strongly Confucian in nature, bushido stressed concepts such as loyalty to one's master, self discipline and respectful, ethical behavior. Many samurai were also drawn to the teachings and practices of Zen Buddhism.</x:String>
+        <x:String>History</x:String>
+        <x:String>The samurai trace their origins to the Heian Period campaigns to subdue the native Emishi people in the Tohoku Region. Around the same time, warriors were increasingly hired by wealthy landowners that had grown independent of the central government and built armies for their own protection.</x:String>
+        <x:String>The two most powerful of these landowning clans, the Minamoto and Taira, eventually challenged the central government and battled each other for supremacy over the entire country. Minamoto Yoritomo emerged victorious and set up a new military government in 1192, led by the shogun or supreme military commander. The samurai would rule over Japan for most of the next 700 years.</x:String>
+        <x:String>During the chaotic era of warring states in the 15th and 16th centuries, Japan splintered into dozens of independent states constantly at war with one another. Consequently, warriors were in high demand. It was also the era when ninja, warriors specialized in unconventional warfare, were most active. Many of the famous samurai movies by Kurosawa are set during this time.</x:String>
+        <x:String>The country was eventually reunited in the late 1500s, and a rigid social caste system was established during the Edo Period that placed the samurai at the top, followed by the farmers, artisans and merchants respectively. During this time, the samurai were forced to live in castle towns, were the only ones allowed to own and carry swords and were paid in rice by their daimyo or feudal lords. Masterless samurai were called ronin and caused minor troubles during the 1600s.</x:String>
+        <x:String>Relative peace prevailed during the roughly 250 years of the Edo Period. As a result, the importance of martial skills declined, and many samurai became bureaucrats, teachers or artists. Japan's feudal era eventually came to an end in 1868, and the samurai class was abolished a few years afterwards.</x:String>
+    </ArticleModel.Paragraphs>
+</ArticleModel>

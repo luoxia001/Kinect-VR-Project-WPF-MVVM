@@ -1,0 +1,12 @@
+C:\Users\夏\Documents\Visual Studio 2015\Projects\KinectProject\.Release\KinectInteraction180_32.dll
+C:\Users\夏\Documents\Visual Studio 2015\Projects\KinectProject\.Release\KinectInteraction180_64.dll
+C:\Users\夏\Documents\Visual Studio 2015\Projects\KinectProject\.Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\夏\Documents\Visual Studio 2015\Projects\KinectProject\.Release\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\Themes\Generic.baml
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\夏\Documents\Visual Studio 2015\Projects\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.pdb

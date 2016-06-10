@@ -317,18 +317,10 @@
     <Content Include="Content\HomeScreen\Shinto Shrines Tori.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Content\Videos\FOOD.mp4">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Content\Videos\HERITAGE.mp4">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Content\Videos\JAPAN INTRODUCTION.mp4">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Content\Videos\POP CULTURE.mp4">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Content\Videos\FOOD.mp4" />
+    <Content Include="Content\Videos\HERITAGE.mp4" />
+    <Content Include="Content\Videos\JAPAN INTRODUCTION.mp4" />
+    <Content Include="Content\Videos\POP CULTURE.mp4" />
     <Content Include="Resources\JAPAN.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

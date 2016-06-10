@@ -2,7 +2,7 @@
 A VR project which support geature and voice control using Kinect SDK, C#, WPF, and MVVM pattern
 
 Notice:
-*All video resources have removed because of the size of videos.
+*All video resources have been removed because of the size of videos.
 *Using gesture and voice control need to connect to Microsoft Kinect device, 
  but the application also can support keyboard and mouse when Kinect Device is disconnected.
 

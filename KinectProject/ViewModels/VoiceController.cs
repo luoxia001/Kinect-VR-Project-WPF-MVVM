@@ -111,14 +111,16 @@ namespace KinectProject.ViewModels
                 KinectDeviceInstance.SensorChooser.Start();
             }
 
-            Kinect = KinectDeviceInstance.SensorChooser.Kinect;
-            KinectSource = Kinect.AudioSource;
-            KinectSource.BeamAngleMode = BeamAngleMode.Automatic;
-            AudioStream = KinectSource.Start();
-            KinectRecognizer.SetInputToAudioStream(AudioStream, new SpeechAudioFormatInfo(
-                                                    EncodingFormat.Pcm, 16000, 16, 1,
-                                                    32000, 2, null));
-            KinectRecognizer.RecognizeAsync(RecognizeMode.Multiple);
+            if (KinectDeviceInstance.SensorChooser.Status == ChooserStatus.SensorStarted) { 
+                Kinect = KinectDeviceInstance.SensorChooser.Kinect;
+                KinectSource = Kinect.AudioSource;
+                KinectSource.BeamAngleMode = BeamAngleMode.Automatic;
+                AudioStream = KinectSource.Start();
+                KinectRecognizer.SetInputToAudioStream(AudioStream, new SpeechAudioFormatInfo(
+                                                        EncodingFormat.Pcm, 16000, 16, 1,
+                                                        32000, 2, null));
+                KinectRecognizer.RecognizeAsync(RecognizeMode.Multiple);
+            }
         }
 
         public void SetupSpeechRecognition()
